@@ -1,10 +1,17 @@
 # Disney Simulation
 
-This is a simulation using [JupedSim](www.jupedsim.org)
+This project showcases a pedestrian dynamics simulation of the Disney scenario, using [JupedSim](https://www.jupedsim.org/stable/), an open-source framework for modeling and simulating pedestrian movement.
 
+This repository provides:
+
+- Python scripts for setting up and running the simulation.
+- Tools for plotting and analyzing the simulation configuration.
+- A sample geometry file (Disney.wkt) to replicate the setup.
+
+    
 ## Usage
 
-To get started, create a virtual environment and install the required packages by following these steps:
+To run the simulation, you will need to, create a virtual environment and install the required packages by following these steps:
 
 ```bash
 # Create a virtual environment
